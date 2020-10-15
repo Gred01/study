@@ -1,1 +1,226 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T07:05:43.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.8.0" etag="WbJInI2iaKP5uy-rr8aA" type="github"><diagram id="62m_wsy3EDpjfOrOz8zj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-15T07:11:29.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="SWqq7TmxvO8Nzsyvgq7K" version="13.8.0" type="github">
+  <diagram id="62m_wsy3EDpjfOrOz8zj" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-11" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-12" value="IDC-A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-13" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-14" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-11" target="1MdkNr_c9jZ1odj1kv4w-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="500" as="sourcePoint" />
+            <mxPoint x="550" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-15" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-16" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-15" target="1MdkNr_c9jZ1odj1kv4w-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327.5" y="250" as="sourcePoint" />
+            <mxPoint x="328.75" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-17" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-15" target="1MdkNr_c9jZ1odj1kv4w-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-18" value="全球YEureka发现集群-1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="990" y="150" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-20" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="180" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-21" value="IDC-B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-22" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-23" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-20" target="1MdkNr_c9jZ1odj1kv4w-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="500" as="sourcePoint" />
+            <mxPoint x="1390" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-24" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-25" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-24" target="1MdkNr_c9jZ1odj1kv4w-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1167.5" y="250" as="sourcePoint" />
+            <mxPoint x="1168.75" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-26" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-24" target="1MdkNr_c9jZ1odj1kv4w-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="500" as="sourcePoint" />
+            <mxPoint x="1400" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-28" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="710" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-29" value="IDC-C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-30" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-31" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-28" target="1MdkNr_c9jZ1odj1kv4w-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1030" as="sourcePoint" />
+            <mxPoint x="550" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-32" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-33" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-32" target="1MdkNr_c9jZ1odj1kv4w-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327.5" y="780" as="sourcePoint" />
+            <mxPoint x="328.75" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-34" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-32" target="1MdkNr_c9jZ1odj1kv4w-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1030" as="sourcePoint" />
+            <mxPoint x="560" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-36" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="710" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-37" value="IDC-D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-38" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-39" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-36" target="1MdkNr_c9jZ1odj1kv4w-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="1030" as="sourcePoint" />
+            <mxPoint x="1390" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-40" value="其他集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="800" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-41" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-40" target="1MdkNr_c9jZ1odj1kv4w-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1167.5" y="780" as="sourcePoint" />
+            <mxPoint x="1168.75" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-42" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-40" target="1MdkNr_c9jZ1odj1kv4w-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="1030" as="sourcePoint" />
+            <mxPoint x="1400" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-47" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-27" target="1MdkNr_c9jZ1odj1kv4w-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-48" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-27" target="1MdkNr_c9jZ1odj1kv4w-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="610" as="sourcePoint" />
+            <mxPoint x="700" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-49" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-19" target="1MdkNr_c9jZ1odj1kv4w-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="414" as="sourcePoint" />
+            <mxPoint x="1220" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-50" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-19" target="1MdkNr_c9jZ1odj1kv4w-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="935" y="390" as="sourcePoint" />
+            <mxPoint x="935" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-51" value="全球YEureka发现集群-4" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="827" y="570" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-52" value="全球YEureka发现集群-3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-53" value="全球YEureka发现集群-2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="827" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-54" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="730" as="sourcePoint" />
+            <mxPoint x="380" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-55" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-18" target="1MdkNr_c9jZ1odj1kv4w-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="510" as="sourcePoint" />
+            <mxPoint x="690" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-56" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="987" y="680" as="sourcePoint" />
+            <mxPoint x="937" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-57" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="379" as="sourcePoint" />
+            <mxPoint x="937" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-58" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-51" target="1MdkNr_c9jZ1odj1kv4w-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="630" as="sourcePoint" />
+            <mxPoint x="710" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-59" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-53" target="1MdkNr_c9jZ1odj1kv4w-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="837" y="635" as="sourcePoint" />
+            <mxPoint x="550" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-60" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-18" target="1MdkNr_c9jZ1odj1kv4w-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="892" y="500" as="sourcePoint" />
+            <mxPoint x="892" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MdkNr_c9jZ1odj1kv4w-61" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1MdkNr_c9jZ1odj1kv4w-18" target="1MdkNr_c9jZ1odj1kv4w-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="520" as="sourcePoint" />
+            <mxPoint x="777" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
