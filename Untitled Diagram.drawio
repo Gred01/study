@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-21T05:45:16.345Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="PTwsjonGJ96Crrvqgg9j" version="13.8.0" type="github">
+<mxfile modified="2020-10-21T05:57:41.968Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pBOchb6b15STYHvrTGNs" version="13.8.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1673" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="318.75" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rY4eyUQjChqUg5G9gw5I-102" value="全球YEureka集群" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rY4eyUQjChqUg5G9gw5I-102" value="全球发现集群" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="340" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rY4eyUQjChqUg5G9gw5I-113" value="" style="endArrow=classic;startArrow=classic;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" parent="1" edge="1">
@@ -40,7 +40,7 @@
         <mxCell id="rY4eyUQjChqUg5G9gw5I-117" value="RPC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="-30" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-1" value="&lt;span&gt;YEureka服务集群&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-1" value="发现&lt;span&gt;服务集群&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="710" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tyd7KwF-m_1Z6RTIm-yy-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
             <mxPoint x="968.75" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-6" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-6" value="发现服务集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="810" y="710" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tyd7KwF-m_1Z6RTIm-yy-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
             <mxPoint x="638.75" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-11" value="YEureka服务集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="tyd7KwF-m_1Z6RTIm-yy-11" value="发现服务集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="-10" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tyd7KwF-m_1Z6RTIm-yy-12" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=2;" edge="1" parent="1" source="rY4eyUQjChqUg5G9gw5I-66" target="rY4eyUQjChqUg5G9gw5I-102">
