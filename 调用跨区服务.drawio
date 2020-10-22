@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T03:03:21.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.8.1" etag="ma2Db97gpUm-zFUKwLlv" type="github"><diagram id="tbQ7neK_La76-8jwN84w">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T03:10:32.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="dQLzipHyrdTykYAAN2dm" version="13.8.1" type="github">
+  <diagram id="tbQ7neK_La76-8jwN84w" name="Page-1">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JUCT315TfhuDR2wODprk-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="215" y="100" width="470" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-2" value="发现服务集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-3" value="Conagent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="315" width="180" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-4" value="业务集群-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-5" value="&lt;span&gt;业务集群-2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="315" width="150" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-6" value="" style="endArrow=classic;html=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JUCT315TfhuDR2wODprk-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="289.28932188134524" as="sourcePoint" />
+            <mxPoint x="526" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-7" value="2 发现跨区服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-6">
+          <mxGeometry x="-0.3924" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-8" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1" source="JUCT315TfhuDR2wODprk-4" target="JUCT315TfhuDR2wODprk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="460.71000000000004" as="sourcePoint" />
+            <mxPoint x="310" y="389.99932188134517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-9" value="1.发现跨区服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-8">
+          <mxGeometry x="-0.3429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-10" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" edge="1" parent="1" source="JUCT315TfhuDR2wODprk-3" target="JUCT315TfhuDR2wODprk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="440" as="sourcePoint" />
+            <mxPoint x="315" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-11" value="1.3 响应成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-10">
+          <mxGeometry x="-0.3429" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-12" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.116;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1" source="JUCT315TfhuDR2wODprk-3" target="JUCT315TfhuDR2wODprk-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="440" as="sourcePoint" />
+            <mxPoint x="315" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-13" value="1.1 调用跨区服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-12">
+          <mxGeometry x="-0.3504" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-14" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" target="JUCT315TfhuDR2wODprk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="241" as="sourcePoint" />
+            <mxPoint x="314.0799999999999" y="251.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-15" value="1.2 响应成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-14">
+          <mxGeometry x="-0.4595" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-16" value="Region-A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="100" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-17" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;exitX=0.897;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JUCT315TfhuDR2wODprk-2" target="JUCT315TfhuDR2wODprk-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="251" as="sourcePoint" />
+            <mxPoint x="405" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-18" value="2.1 响应成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JUCT315TfhuDR2wODprk-17">
+          <mxGeometry x="-0.4595" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-19" value="" style="endArrow=classic;html=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="30" as="sourcePoint" />
+            <mxPoint x="160" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-20" value="" style="endArrow=classic;html=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="70" as="sourcePoint" />
+            <mxPoint x="160" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-21" value="发现服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="20" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUCT315TfhuDR2wODprk-22" value="正常响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="60" width="55" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
