@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T07:38:11.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="u3B_rwgBVSUsjOzQ-ByR" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T10:54:38.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="D_ka80ZvZr_V0ZWIgCCG" version="13.8.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4bXHojdaZ0uIGxxatEPp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bXHojdaZ0uIGxxatEPp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="10" width="340" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="4bXHojdaZ0uIGxxatEPp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4bXHojdaZ0uIGxxatEPp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="940" height="760" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value="会话管理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" parent="1" vertex="1">
@@ -136,10 +136,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFjCsUCM6t9HKuLcPDDI-24" value="3&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;：&lt;/span&gt;检测是否开启订阅的RemoteRegion的线程或跨区服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="vFjCsUCM6t9HKuLcPDDI-24" value="3&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;：&lt;/span&gt;检测是否开启订阅的RemoteRegion线程或跨区服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vFjCsUCM6t9HKuLcPDDI-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;7&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;：&lt;/span&gt;RemoteRegion服务变动&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
+        <mxCell id="vFjCsUCM6t9HKuLcPDDI-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;7&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;：跨区&lt;/span&gt;服务变动&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="380" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFjCsUCM6t9HKuLcPDDI-35" value="9：入队" style="html=1;verticalAlign=bottom;endArrow=block;sketch=0;" parent="1" edge="1">
@@ -194,7 +194,7 @@
         <mxCell id="vFjCsUCM6t9HKuLcPDDI-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="vFjCsUCM6t9HKuLcPDDI-65" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vFjCsUCM6t9HKuLcPDDI-66" value="5：RemoteRegion长轮询" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.686;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vFjCsUCM6t9HKuLcPDDI-26" target="vFjCsUCM6t9HKuLcPDDI-65" edge="1">
+        <mxCell id="vFjCsUCM6t9HKuLcPDDI-66" value="5：&lt;br&gt;跨区服务列表同步【http长轮询】" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.686;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vFjCsUCM6t9HKuLcPDDI-26" target="vFjCsUCM6t9HKuLcPDDI-65" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="830" y="360" as="sourcePoint" />
             <mxPoint x="910" y="360" as="targetPoint" />
@@ -216,13 +216,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFjCsUCM6t9HKuLcPDDI-72" value="6：检测RemoteRegion服务是否变动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="vFjCsUCM6t9HKuLcPDDI-72" value="6：检测跨区服务是否变动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="360" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4bXHojdaZ0uIGxxatEPp-5" value="Region-A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4bXHojdaZ0uIGxxatEPp-5" value="Region-A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4bXHojdaZ0uIGxxatEPp-6" value="Region-B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4bXHojdaZ0uIGxxatEPp-6" value="Region-B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="10" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
