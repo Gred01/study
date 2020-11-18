@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T12:43:48.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="QWhT0VfR5mElWmkPlJOC" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T06:24:03.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="p2fF3yLWFc76sXY5VF_c" version="13.9.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vFjCsUCM6t9HKuLcPDDI-24" value="3&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;：&lt;/span&gt;检测是否开启订阅的RemoteRegion线程或跨区服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+        <mxCell id="vFjCsUCM6t9HKuLcPDDI-24" value="3&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;：&lt;/span&gt;检测监听跨区服务线程是否开启" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vFjCsUCM6t9HKuLcPDDI-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;7&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;：跨区&lt;/span&gt;服务变动&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
